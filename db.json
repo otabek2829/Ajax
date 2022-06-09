@@ -1,0 +1,34 @@
+{
+    "shop" :[
+        {
+            "name" : "Беговая дорожка",
+            "price" : 400,
+            "tel": 998937777777,
+            "photo" : "./img/image;s=64324x461.jpg"
+        },
+        {
+            "name" : "кондиционер",
+            "price" : 1000,
+            "tel": 998905453214,
+            "photo" : "./img/image;s=6442x461.jpg"
+        },
+        {
+            "name" : "Фара для машина",
+            "price" : 200,
+            "tel": 998937587977,
+            "photo" : "./img/image;s=644x432161.jpg"
+        },
+        {
+            "name" : "Стабилизатор",
+            "price" : 800,
+            "tel": 998974015285,
+            "photo" : "img/image;s=644x461.jpg"
+        },
+        {
+            "name" : "Камаз Howo",
+            "price" : 10000,
+            "tel": 998951455878,
+            "photo" : "./img/ima222ge;s=644x461.jpg"
+        }
+    ]
+}
